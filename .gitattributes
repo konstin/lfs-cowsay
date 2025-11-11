@@ -1,1 +1,1 @@
-cowsay/characters.py filter=lfs diff=lfs merge=lfs -text
+src/lfs_cowsay/characters.py filter=lfs diff=lfs merge=lfs -text
